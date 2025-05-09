@@ -8,7 +8,7 @@ My goal isn't just to write code or configure networks; it's about cultivating t
 
 I'm developing expertise around three interconnected pillars:
 
-* **Business Acumen**: Solving real-world business challenges through practical technological solutions.
+* **Analytical Thinking**: Interpreting complex systems and data flows to design effective, insight-driven network and infrastructure solutions.
 * **Infrastructure Mastery**: Building and optimizing resilient, scalable, and intelligent network architectures.
 * **Technological Innovation**: Leveraging AI and cloud technologies to enhance decision-making, efficiency, and visibility.
 
